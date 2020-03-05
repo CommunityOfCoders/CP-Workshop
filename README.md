@@ -7,23 +7,23 @@
 ### [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
 ### [Integer Factorization](https://cp-algorithms.com/algebra/factorization.html)
 ### Modular Arithmetic
-```
-Addition
+```cpp
+// Addition
 (a + b) % m = ((a % m) + (b % m)) % m
 
-Subraction
+// Subraction
 (a - b) % m = ((a % m) - (b % m)) % m
 
-Multiplication
+// Multiplication
 (a * b) % m = ((a % m) * (b % m)) % m
 
-Division (We need to use Mod Inverse)
+// Division (We need to use Mod Inverse)
 (a / b) % m != ((a % m) / (b % m)) % m
 ```
 ### Modular Inverse
-```
-Using Fermat's Little  theorem
-If m is prime
+```cpp
+// Using Fermat's Little  theorem
+// If m is prime
 modInv(a, m) {
     return fastpow(a, m - 2, m);
     // pow(a, m - 2) % m
@@ -43,6 +43,10 @@ modInv(a, m) {
 * [TASTYD](https://www.codechef.com/problems/TASTYD)
 
 ### Dynammic Programming
+* [Top 20 must do DP problems on GFG](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
+* [AtCoder Educational DP contest](https://atcoder.jp/contests/dp/tasks)
+* [EXPCAN](https://www.codechef.com/problems/EXPCAN)
+* [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
 ### Disjoint Set Union (DSU)
 * [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
@@ -59,14 +63,13 @@ modInv(a, m) {
 ### Square Root Decomposition
 
 ### Polynomial Multiplication using FFT
-* [Tutorial]() (Don't worry too much about math behind it, learn how to use it)
-* [Impelementation]() (Use this as a template)
+* [Tutorial](https://cp-algorithms.com/algebra/fft.html) (Don't worry too much about math behind it, learn how to use it)
 
 ## ADVANCED
 ### Segment Tree
 
 ### DP on Trees
 
-### Bi connectivity
+### Biconnectivity
 
 ### LCA in LogN (Binary Lifting)
