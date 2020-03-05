@@ -37,18 +37,36 @@ modInv(a, m) {
 * [AGGRCOW](https://www.spoj.com/problems/AGGRCOW/)
 * [SNAKEEAT](https://www.codechef.com/problems/SNAKEEAT)
 
+### Divide and Conquer
+* [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+* [Inversion Count](https://www.geeksforgeeks.org/counting-inversions/)
+* [TASTYD](https://www.codechef.com/problems/TASTYD)
+
+### Dynammic Programming
+
 ### Disjoint Set Union (DSU)
 * [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
 * [Implementation](https://github.com/yash0530/CP/blob/master/01%20DSA/001%20DSU.cpp)
 * [DISHOWN](https://www.codechef.com/problems/DISHOWN)
 * [ABC 120D](https://atcoder.jp/contests/abc120/tasks/abc120_d)
 
-### Divide and Conquer
-* [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
-* [Inversion Count](https://www.geeksforgeeks.org/counting-inversions/)
-* [TASTYD](https://www.codechef.com/problems/TASTYD)
+### Tries
+* [Tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/)
+* [Implementation](https://github.com/yash0530/CP/blob/master/01%20DSA/016%20Trie.cpp)
+* [MAX-XOR](https://www.hackerrank.com/challenges/maximum-xor/problem)
+* [ENGLISH](https://www.codechef.com/problems/ENGLISH)
 
-3. DP,  DP on Trees
-4. Segment Tree
-7. Tries
-8. FFT (very basic)
+### Square Root Decomposition
+
+### Polynomial Multiplication using FFT
+* [Tutorial]() (Don't worry too much about math behind it, learn how to use it)
+* [Impelementation]() (Use this as a template)
+
+## ADVANCED
+### Segment Tree
+
+### DP on Trees
+
+### Bi connectivity
+
+### LCA in LogN (Binary Lifting)
