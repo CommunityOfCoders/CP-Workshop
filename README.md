@@ -7,7 +7,7 @@
 * [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
 * [Integer Factorization](https://cp-algorithms.com/algebra/factorization.html)
 * Modular Arithmetic
-```cpp
+```
 Addition
 (a + b) % m = ((a % m) + (b % m)) % m
 
@@ -19,4 +19,14 @@ Multiplication
 
 Division (We need to use Mod Inverse)
 (a / b) % m != ((a % m) / (b % m)) % m
+```
+* Modular Inverse
+```
+Using Fermat's Little  theorem
+If m is prime
+modInv(a, m) {
+    return fastpow(a, m - 2, m);
+    // pow(a, m - 2) % m
+}
+(a / b) % m = ((a % m) * modInv(b, m)) % m
 ```
