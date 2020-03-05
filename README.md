@@ -78,3 +78,12 @@ modInv(a, m) {
 ### Biconnectivity
 
 ### LCA in LogN (Binary Lifting)
+
+## RESOURCES
+* [Codechef](https://www.codechef.com/)
+* [Codeforces](https://codeforces.com/)
+* [AtCoder](http://atcoder.jp/)
+* [LeetCode](https://leetcode.com/)
+* [cp-algorithms](http://cp-algorithms.com/)
+* [Errichto YT](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [GauravSen YT](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
