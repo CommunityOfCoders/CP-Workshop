@@ -60,13 +60,18 @@ modInv(a, m) {
 * [MAX-XOR](https://www.hackerrank.com/challenges/maximum-xor/problem)
 * [ENGLISH](https://www.codechef.com/problems/ENGLISH)
 
-### Square Root Decomposition
-
 ### Polynomial Multiplication using FFT
 * [Tutorial](https://cp-algorithms.com/algebra/fft.html) (Don't worry too much about math behind it, learn how to use it)
 
-## ADVANCED
+## ADVANCED TOPICS
 ### Segment Tree
+* [Tutorial](https://cp-algorithms.com/data_structures/segment_tree.html)
+* [Tutorial](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
+* [Video Tutorials](https://www.youtube.com/playlist?list=PLMCXHnjXnTnuASA1NghV3Vs9J3D_ij5w2)
+* [Implementation with Lazy Prop](https://github.com/yash0530/CP/blob/master/01%20DSA/004%20LAZY.cpp)
+* [ABC 157E](https://atcoder.jp/contests/abc157/tasks/abc157_e)
+* [FLIPCOIN](https://www.codechef.com/problems/FLIPCOIN)
+* [GSS1](https://www.spoj.com/problems/GSS1/)
 
 ### DP on Trees
 
