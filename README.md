@@ -37,10 +37,18 @@ modInv(a, m) {
 * [AGGRCOW](https://www.spoj.com/problems/AGGRCOW/)
 * [SNAKEEAT](https://www.codechef.com/problems/SNAKEEAT)
 
-2. DSU (disjoint set union)
+### Disjoint Set Union (DSU)
+* [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
+* [Implementation](https://github.com/yash0530/CP/blob/master/01%20DSA/001%20DSU.cpp)
+* [DISHOWN](https://www.codechef.com/problems/DISHOWN)
+* [ABC 120D](https://atcoder.jp/contests/abc120/tasks/abc120_d)
+
+### Divide and Conquer
+* [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+* [Inversion Count](https://www.geeksforgeeks.org/counting-inversions/)
+* [TASTYD](https://www.codechef.com/problems/TASTYD)
+
 3. DP,  DP on Trees
 4. Segment Tree
-5. Divide and Conquer
-6. Mod Inverse
 7. Tries
 8. FFT (very basic)
