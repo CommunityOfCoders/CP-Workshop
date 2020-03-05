@@ -20,7 +20,7 @@
 // Division (We need to use Mod Inverse)
 (a / b) % m != ((a % m) / (b % m)) % m
 ```
-### Modular Inverse
+### [Modular Inverse](https://cp-algorithms.com/algebra/module-inverse.html)
 ```cpp
 // Using Fermat's Little  theorem
 // If m is prime
@@ -33,7 +33,7 @@ modInv(a, m) {
 
 ## TOPICS
 ### Binary Search
-* [Tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
+* [Tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search) (Topcoder)
 * [AGGRCOW](https://www.spoj.com/problems/AGGRCOW/)
 * [SNAKEEAT](https://www.codechef.com/problems/SNAKEEAT)
 
@@ -43,19 +43,19 @@ modInv(a, m) {
 * [TASTYD](https://www.codechef.com/problems/TASTYD)
 
 ### Dynammic Programming
-* [Top 20 must do DP problems on GFG](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
-* [AtCoder Educational DP contest](https://atcoder.jp/contests/dp/tasks)
+* [Top 20 must do DP problems](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/) (GFG)
+* [Educational DP contest](https://atcoder.jp/contests/dp/tasks) (AtCoder)
 * [EXPCAN](https://www.codechef.com/problems/EXPCAN)
 * [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
 ### Disjoint Set Union (DSU)
-* [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
+* [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/) (Hackerearth)
 * [Implementation](https://github.com/yash0530/CP/blob/master/01%20DSA/001%20DSU.cpp)
 * [DISHOWN](https://www.codechef.com/problems/DISHOWN)
 * [ABC 120D](https://atcoder.jp/contests/abc120/tasks/abc120_d)
 
 ### Tries
-* [Tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/)
+* [Tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/) (Hackerearth)
 * [Implementation](https://github.com/yash0530/CP/blob/master/01%20DSA/016%20Trie.cpp)
 * [MAX-XOR](https://www.hackerrank.com/challenges/maximum-xor/problem)
 * [ENGLISH](https://www.codechef.com/problems/ENGLISH)
@@ -65,21 +65,21 @@ modInv(a, m) {
 * [Codeforces 993E](https://codeforces.com/problemset/problem/993/E)
 
 ### GRAPHS
-* [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/)
-* [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/)
+* [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/) (Topological Sort)
+* [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/) (Bipartite Graph)
 
 ## ADVANCED TOPICS
 ### Segment Tree
-* [Tutorial](https://cp-algorithms.com/data_structures/segment_tree.html)
+* [Tutorial](https://cp-algorithms.com/data_structures/segment_tree.html) (cp-algorithms)
 * [Tutorial](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
-* [Video Tutorials](https://www.youtube.com/playlist?list=PLMCXHnjXnTnuASA1NghV3Vs9J3D_ij5w2)
+* [Video Tutorials](https://www.youtube.com/playlist?list=PLMCXHnjXnTnuASA1NghV3Vs9J3D_ij5w2) (Gaurav Sen YT)
 * [Implementation with Lazy Prop](https://github.com/yash0530/CP/blob/master/01%20DSA/004%20LAZY.cpp)
 * [ABC 157E](https://atcoder.jp/contests/abc157/tasks/abc157_e)
 * [FLIPCOIN](https://www.codechef.com/problems/FLIPCOIN)
 * [GSS1](https://www.spoj.com/problems/GSS1/)
 
 ### DP on Trees
-* [Tutorial](https://codeforces.com/blog/entry/20935)
+* [Tutorial](https://codeforces.com/blog/entry/20935) (Codeforces)
 
 ### Biconnectivity
 
