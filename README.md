@@ -62,6 +62,11 @@ modInv(a, m) {
 
 ### Polynomial Multiplication using FFT
 * [Tutorial](https://cp-algorithms.com/algebra/fft.html) (Don't worry too much about math behind it, learn how to use it)
+* [Codeforces 993E](https://codeforces.com/problemset/problem/993/E)
+
+### GRAPHS
+* [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/)
+* [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/)
 
 ## ADVANCED TOPICS
 ### Segment Tree
@@ -74,6 +79,7 @@ modInv(a, m) {
 * [GSS1](https://www.spoj.com/problems/GSS1/)
 
 ### DP on Trees
+* [Tutorial](https://codeforces.com/blog/entry/20935)
 
 ### Biconnectivity
 
