@@ -54,7 +54,7 @@ modInv(a, m) {
 * [MAX-XOR](https://www.hackerrank.com/challenges/maximum-xor/problem)
 * [ENGLISH](https://www.codechef.com/problems/ENGLISH)
 
-### GRAPHS
+### Graphs
 * [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/) (Topological Sort)
 * [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/) (Bipartite Graph)
 
@@ -77,33 +77,33 @@ modInv(a, m) {
 * [GSS1](https://www.spoj.com/problems/GSS1/)
 * [CYCLCSUM](https://www.codechef.com/COOK115A/problems/CYCLCSUM)
 
-### DP on Trees
+### Tree DP
 * [Tutorial](https://codeforces.com/blog/entry/20935) (Codeforces)
 
-### Polynomial Multiplication using FFT
+### Polynomial Multiplication (FFT)
 * [Tutorial](https://cp-algorithms.com/algebra/fft.html) (Don't worry too much about math behind it, learn how to use it)
 * [Codeforces 993E](https://codeforces.com/problemset/problem/993/E)
 
 
-### LCA in LogN (Binary Lifting)
+### LCA (Binary Lifting)
 * [Tutorial](https://www.youtube.com/watch?v=ctZ7fjMbPWE) (Youtube)
 * [Tutorial](https://cp-algorithms.com/graph/lca_binary_lifting.html) (cp-algorithms)
 
 ## RESOURCES
 
-### YOUTUBE
+### Youtube
 * [GauravSen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 * [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 
-### PRACTICE, CONTESTS AND READING
+### Contests and Practice
 * [Codechef](https://www.codechef.com/)
 * [Codeforces](https://codeforces.com/)
 * [AtCoder](http://atcoder.jp/)
 * [LeetCode](https://leetcode.com/)
 * [SPOJ](https://spoj.com)
 
-### READING
+### Reading
 * [Book](https://cses.fi/book/book.pdf)
 * [cp-algorithms](http://cp-algorithms.com/)
 * [Topcoder Articles](https://www.topcoder.com/community/competitive-programming/tutorials/)
