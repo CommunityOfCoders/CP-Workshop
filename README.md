@@ -104,6 +104,7 @@ modInv(a, m) {
 * [SPOJ](https://spoj.com)
 
 ### Reading
+* Editorials on Codechef and Codeforces
 * [Book](https://cses.fi/book/book.pdf)
 * [cp-algorithms](http://cp-algorithms.com/)
 * [Topcoder Articles](https://www.topcoder.com/community/competitive-programming/tutorials/)
