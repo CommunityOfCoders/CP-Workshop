@@ -6,6 +6,7 @@
 ### [Nth Fibonacci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 ### [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
 ### [Integer Factorization](https://cp-algorithms.com/algebra/factorization.html)
+### [Primality tests](https://cp-algorithms.com/algebra/primality_tests.html)
 ### Modular Arithmetic
 ```cpp
 // Addition
@@ -40,7 +41,8 @@ modInv(a, m) {
 ### Divide and Conquer
 * [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
 * [Inversion Count](https://www.geeksforgeeks.org/counting-inversions/)
-* [TASTYD](https://www.codechef.com/problems/TASTYD)
+* [Count Subarrays with Neg Sum]
+* [TASTYD (Subproblem)](https://www.codechef.com/problems/TASTYD)
 
 ### Disjoint Set Union (DSU)
 * [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/) (Hackerearth)
@@ -52,11 +54,15 @@ modInv(a, m) {
 * [Tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/) (Hackerearth)
 * [Implementation](https://github.com/yash0530/CP/blob/master/01%20DSA/016%20Trie.cpp)
 * [MAX-XOR](https://www.hackerrank.com/challenges/maximum-xor/problem)
+* [SHKSTR](https://www.codechef.com/JUNE18B/problems/SHKSTR)
 * [ENGLISH](https://www.codechef.com/problems/ENGLISH)
 
 ### Graphs
 * [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/) (Topological Sort)
 * [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/) (Bipartite Graph)
+
+### String Hashing (Rolling Hashing)
+* [Tutorial](https://www.quora.com/q/threadsiiithyderabad/String-Hashing-for-competitive-programming)
 
 ## ADVANCED TOPICS
 ### Dynammic Programming
