@@ -92,13 +92,14 @@ modInv(a, m) {
 ## RESOURCES
 
 ### Youtube
-* [GauravSen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-* [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 * [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 
 ### Contests and Practice
 * [Codechef](https://www.codechef.com/)
 * [Codeforces](https://codeforces.com/)
+* [AtCoder Archives](https://kenkoooo.com/atcoder/#/table/)
 * [AtCoder](http://atcoder.jp/)
 * [LeetCode](https://leetcode.com/)
 * [SPOJ](https://spoj.com)
@@ -107,4 +108,5 @@ modInv(a, m) {
 * Editorials on Codechef and Codeforces
 * [Book](https://cses.fi/book/book.pdf)
 * [cp-algorithms](http://cp-algorithms.com/)
-* [Topcoder Articles](https://www.topcoder.com/community/competitive-programming/tutorials/)
+* [Codeforces Tutorials](https://codeforces.com/blog/entry/57282)
+* [Topcoder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
