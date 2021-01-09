@@ -98,13 +98,17 @@ modInv(a, m) {
 ## RESOURCES
 
 ### Youtube
-* [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
-* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [ Learn Competitive Programming with CodeChef](https://www.youtube.com/channel/UCh-5M0r0SBgb5xNCFXG7aXQ)
+* [Colin Galen](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw)
+* [SecondThread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g)
 * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 
 ### Contests and Practice
+* **[Codeforces](https://codeforces.com/)**
 * [Codechef](https://www.codechef.com/)
-* [Codeforces](https://codeforces.com/)
+* [InterviewBit](https://www.interviewbit.com/practice/)
 * [AtCoder Archives](https://kenkoooo.com/atcoder/#/table/)
 * [AtCoder](http://atcoder.jp/)
 * [LeetCode](https://leetcode.com/)
